@@ -17,7 +17,7 @@ Hello...,👋 I am an indie developer who wants to make really fun and interesti
 ![snake gif](https://github.com/ThePalp/ThePalp/blob/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThePalp&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ThePalp&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThePalp&limit=5&theme=dark&combine_all_yearly_contributions=true)
