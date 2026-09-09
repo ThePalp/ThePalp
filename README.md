@@ -20,10 +20,6 @@
 <!-- Sneak Gif -->
 ![snake gif](https://github.com/dhikputraID/dhikputraID/blob/output/github-snake-dark.svg)
 
-<!-- About Me -->
-<h1 align="center"> About me: </h1>
-<p></p>
-
 <!-- Static -->
 <p align="right">
   <a href="https://github.com/dhikputraID">
@@ -44,7 +40,8 @@
 
 <!-- Skills -->
 
-<h1 align="center"> Skills: </h1>
+<h1>My Skills:</h1>
+<h2>Frontend ✏️</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
