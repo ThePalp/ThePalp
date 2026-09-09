@@ -16,7 +16,7 @@
                                                                                
 -->
 <h1>About Me:</h1>
-<p>Hello!, welcome to my github. Let me introduce myself, my name is Dhika. My son is a full-stack junior who has big dreams of creating useful projects! Nice to meet you 👋.</p>
+<p>Hello!, welcome to my github. Let me introduce myself, my name is Dhika Putra & i'm a junior full-stack developer who has big dreams of creating useful projects! Nice to meet you 👋.</p>
 <!-- Sneak Gif -->
 ![snake gif](https://github.com/dhikputraID/dhikputraID/blob/output/github-snake-dark.svg)
 
