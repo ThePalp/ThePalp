@@ -34,7 +34,7 @@
 </a>
 <h3>Robotics 🤖</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=Arduino, cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,arduino" />
 </a>
 
 <!-- Static -->
