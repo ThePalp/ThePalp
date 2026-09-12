@@ -18,7 +18,7 @@
 <h1>About Me 👨‍💻:</h1>
 <p>Hello!, welcome to my github. Let me introduce myself, my name is Dhika Putra & i'm a junior full-stack developer who has big dreams of creating useful projects! Nice to meet you 👋.</p>
 <!-- Sneak Gif -->
-<h2>My Skills</h2>
+<h1>My Skills</h1>
 <h3>Frontend ✏️</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
