@@ -27,6 +27,10 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=php,mysql" />
 </a>
+<h3>Design 🖌️</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</a>
 <!-- Static -->
 <p align="right">
   <a href="https://github.com/dhikputraID">
