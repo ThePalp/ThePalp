@@ -20,7 +20,9 @@
 <!-- Sneak Gif -->
 <h2>My Skills</h2>
 <h3>Frontend ✏️</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+</a>
 <!-- Static -->
 <p align="right">
   <a href="https://github.com/dhikputraID">
