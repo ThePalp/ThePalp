@@ -15,11 +15,9 @@
       '---"       `----'             `----'                           `----'   
                                                                                
 -->
-<h1>About Me:</h1>
+<h1>About Me 👨‍💻:</h1>
 <p>Hello!, welcome to my github. Let me introduce myself, my name is Dhika Putra & i'm a junior full-stack developer who has big dreams of creating useful projects! Nice to meet you 👋.</p>
 <!-- Sneak Gif -->
-![snake gif](https://github.com/dhikputraID/dhikputraID/blob/output/github-snake-dark.svg)
-
 <!-- Static -->
 <p align="right">
   <a href="https://github.com/dhikputraID">
@@ -43,7 +41,8 @@
 <h1 align="center">My Skills:</h1>
 <h2 align="center">Frontend ✏️</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" /><p>HTML</p>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <p>HTML</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
