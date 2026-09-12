@@ -21,7 +21,11 @@
 <h2>My Skills</h2>
 <h3>Frontend ✏️</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+<h3>Backend 📂</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
 </a>
 <!-- Static -->
 <p align="right">
